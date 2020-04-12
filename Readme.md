@@ -28,9 +28,7 @@ c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0*
 
 **Cevap:** **Eğrinin formülünde sabit değer bulunduğu için orijinden geçemez.**
 
-
-
-
+![GRAFİK]()
 
 
 # Bölüm 2
